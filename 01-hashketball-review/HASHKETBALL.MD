@@ -3,19 +3,19 @@
 ## Review Lecture Deliverables
 
 - We will cover the following today:
-  [X] Navigating file structure
-  [X] RSPEC syntax
+  -[X] Navigating file structure
+  -[X] RSPEC syntax
     - Reading errors
-  [X] Using test code to drive lab progression
-  [X] Debugging tools
+  -[X] Using test code to drive lab progression
+  -[X] Debugging tools
     - `binding.pry`
     - `puts`
-  [X] DRY (DON'T REPEAT YOURSELF) principles
+  -[X] DRY (DON'T REPEAT YOURSELF) principles
     - Refactor code if it seems like similar functionality
-  [] Advanced iterator methods
+  -[] Advanced iterator methods
     - `map` / `collect`
     - `find`
     - `select`
     - `each`
-  [X] Single-line blocks versus `do` & `end` multi-line blocks
-  [] Questions!
+  -[X] Single-line blocks versus `do` & `end` multi-line blocks
+  -[] Questions!
