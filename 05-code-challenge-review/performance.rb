@@ -1,13 +1,13 @@
 class Performance
 
   attr_reader :date
-  attr_accessor :musical, :theater
+  attr_accessor :musical_object, :theater
 
   @@all = [ ]
 
-  def initialize(date, musical, theater)
+  def initialize(date, musical_object, theater)
     @date = date
-    @musical = musical
+    @musical_object = musical_object
     @theater = theater
     @@all << self
   end
